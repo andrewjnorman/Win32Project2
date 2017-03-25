@@ -1,0 +1,19 @@
+﻿1>------ Build started: Project: Win32Project1, Configuration: Debug x64 ------
+1>  stdafx.cpp
+1>  dllmain.cpp
+1>  Win32Project1.cpp
+1>     Creating library C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\Win32Project1.lib and object C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\Win32Project1.exp
+1>  Win32Project1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\Win32Project1.dll
+1>  Win32Project1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\Win32Project1.pdb (Full PDB)
+2>------ Build started: Project: ConsoleApplication1, Configuration: Debug x64 ------
+3>------ Build started: Project: UnitTest1, Configuration: Debug x64 ------
+2>  stdafx.cpp
+3>  stdafx.cpp
+2>  ConsoleApplication1.cpp
+2>  ConsoleApplication1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\ConsoleApplication1.exe
+2>  ConsoleApplication1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\ConsoleApplication1.pdb (Full PDB)
+3>  unittest1.cpp
+3>     Creating library C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\UnitTest1.lib and object C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\UnitTest1.exp
+3>  UnitTest1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\UnitTest1.dll
+3>  UnitTest1.vcxproj -> C:\Users\andrew\Source\Repos\Win32Project1\x64\Debug\UnitTest1.pdb (Partial PDB)
+========== Build: 3 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
