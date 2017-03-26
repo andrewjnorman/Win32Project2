@@ -12,7 +12,7 @@ namespace UnitTest1
 		
 		TEST_METHOD(TestMethod1)
 		{
-			Assert::AreEqual(1, fnWin32Project1());
+			Assert::AreEqual(2, fnWin32Project1());
 
 		}
 
