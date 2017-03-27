@@ -8,6 +8,7 @@
 
 int main()
 {
+	int y = 0;
 	printf("fnWin32Project1 returns %d\n", fnWin32Project1());
     return 0;
 }
